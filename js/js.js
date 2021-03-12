@@ -1,0 +1,1 @@
+alert('Nesse projeto não utilizei as funções javascript em arquivos separados');
